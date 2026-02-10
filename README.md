@@ -1,12 +1,11 @@
-<!-- BANNER -->
+<!-- BANNER 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hamilton%20(H4milton)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
-
+-->
 ---
 
 ## 👋 Hola, soy Hamilton (H4milton)
-
 🚀 Ingeniero en Sistemas | Líder Técnico | Full Stack Developer  
 🌎 Guatemala 🇬🇹  
 🧠 Construyo sistemas reales, usados en producción y pensados para crecer
@@ -49,21 +48,8 @@
 - 🧮 Control de stock en tiempo real
 - 📊 Reportes y exportaciones
 - 🔐 Roles y control de accesos
-- ⚡ Procesos optimizados con colas
 
 👉 Sistema **usado por negocios reales** y en crecimiento constante.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H4milton&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4milton&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
